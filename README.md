@@ -1,7 +1,7 @@
 <h1 align="center">getPorts</h1>
 
 ## Introduction
-The `getPorts` tool is a Python script inspired by a Bash function originally created by S4vitar. It automates and simplifies both installation and usage by providing a user-friendly Bash installation script. `getPorts` is a useful utility for **extracting port information** from network scan results in Nmap's grepable format (`-oG`).
+The `getPorts` tool is a Python script inspired by a Bash function called `extractPorts` originally created by S4vitar. It automates and simplifies both installation and usage by providing a user-friendly Bash installation script. `getPorts` is a useful utility for **extracting port information** from network scan results in Nmap's grepable format (`-oG`).
 
 
 ## Installation (Kali Linux and Parrot OS)

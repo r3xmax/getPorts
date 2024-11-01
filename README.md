@@ -8,7 +8,7 @@ The `getPorts` tool is a Python script inspired by a Bash function called `extra
 
 #### Compile from Source
 ```bash
-git clone https://github.com/rexmax47/getPorts
+git clone https://github.com/r3xmax/getPorts
 cd getPorts
 chmod +x install.sh
 ./install.sh

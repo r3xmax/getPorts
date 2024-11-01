@@ -21,7 +21,7 @@ try:
     with open(args.file, "r") as file:
         file_content = file.read()
 
-    ports = re.findall(r"\s\d*\/", file_content)
+    ports = re.findall(r"\s(\d+)\/", file_content)
 
     ports_list = []
 
